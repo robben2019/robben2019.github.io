@@ -33,7 +33,7 @@ Work experience
   
 Skills
 ======
-* Proficient in C++, familiar with programming languages ​​such as Java, go, Python, PHP, etc.
+* Familiarity with Java, Understanding programming languages ​​such as C, Python, go, etc.
 * Understand network programming and TCP/IP protocol under Linux
 * Familiar with large language model related technologies such as prompt, RAG, fine-tuning technology, etc.
 
