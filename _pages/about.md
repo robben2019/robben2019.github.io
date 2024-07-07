@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a  undergraduate student from [Wuhan University](https://www.whu.edu.cn). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a postgraduate student at Wuhan University. from [Wuhan University](https://www.whu.edu.cn). My research interest includes machine learning, Complex network and large language model.
 
 I am very fortunate to be advised by [Prof. Yuanyuan Zeng](https://www.aminer.cn/profile/54409854dabfae7d84b897b9)from [Wuhan University](https://www.whu.edu.cn).
 
