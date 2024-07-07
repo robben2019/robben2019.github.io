@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yuxiao Chen"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he"  
+  bio              : "Master student, Software Engineering, Wuhan University"
   location         : "Hubei"
   employer         : "Wuhan University"
   uri              : # URL
