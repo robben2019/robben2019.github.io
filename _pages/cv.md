@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Software Engineering, Wuhan University, 2024-
+* B.S. in computer science and technology, Lanzhou University, 2020-2024
 
 Work experience
 ======
@@ -34,12 +33,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient in C++, familiar with programming languages ​​such as Java, go, Python, PHP, etc.
+* Understand network programming and TCP/IP protocol under Linux
+* Familiar with large language model related technologies such as prompt, RAG, fine-tuning technology, etc.
 
 Publications
 ======
